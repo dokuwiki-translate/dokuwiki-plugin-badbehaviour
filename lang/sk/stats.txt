@@ -1,0 +1,6 @@
+====== Bad Behaviour štatistiky ======
+
+Táto stránka poskytuje prehľad o počte pokusov o prístup,
+ktoré plugin badbehaviour zablokoval v posledných dňoch, a o
+najčastejších dôvodoch.
+
